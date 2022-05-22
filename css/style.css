@@ -240,13 +240,13 @@ p {
   color: #fff;
 }
 
-img.Rectangle-6 {
+img.Rectangle-6{
   width: 310px;
   height: 310px;
   flex-grow: 0;
   margin: 10px 0 20px;
   object-fit: contain;
-   background: #ebac87;
+  background: #ebac87;
 }
 
 .Holisticly-unleash-revolutionary-infrastructures-without-high-standards-in-best-practices {
@@ -287,7 +287,7 @@ img.Rectangle-6 {
 }
 
 .caption {
-  background: url("../img/rectangle 3.png");
+  background: url("../img/Rectangle 3.png");
   background-position: 100% 100%;
   padding: 50px 120px 0px 0;
   font-family: 'Arapey';
