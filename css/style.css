@@ -1,0 +1,380 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+font-family: 'Arapey', serif;
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+h1 {
+  width: 761px;
+  margin: 0 40px 50px 339px;
+  font-family: 'Arapey', serif;
+  color: #9db0d1;
+  font-size: 60px;
+  text-align: left;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 20px;
+  text-align: center;
+  width: 1024px;
+  margin: 50px 208px;
+}
+
+.Landingpage {
+  width: 1440px;
+  padding: 100px 0 50px;
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Frame-1 {
+  width: 267px;
+  height: 80px;
+  padding: 24px 50px;
+  border-radius: 10px;
+  background-color: #ebac87;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.get-started {
+  font-family: Arapey;
+  font-size: 30px;
+  text-align: center;
+  color: #fff;
+}
+
+.Group{
+  display: flex;
+  align-items: center;
+  margin: 50px 50px 144px 144px;
+}
+
+.Group1{
+  flex-grow: 0;
+  margin: 0 50px 0 0;
+  display: flex;
+  align-items: center;
+}
+
+.bullet {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #9DB0D1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Holisticly-impact {
+  margin: 18px 0 18px 15px;
+ font-family: Verdana;
+ font-size: 20px;
+ flex-grow: 0;
+}
+
+.Cooperative-initiatives {
+  margin: 18px 0 18px 15px;
+  font-family: Verdana;
+  font-size: 20px;
+}
+
+.Functional-value {
+  margin: 18px 0 18px 15px;
+  font-family: Verdana;
+  font-size: 20px;
+}
+
+.Premium-services {
+  margin: 18px 0 18px 15px;
+  font-family: Verdana;
+  font-size: 20px;
+ }
+
+ .clouds {
+  width: 1420px;
+  height: 200px;
+  margin: 0 0 50px;
+}
+
+.Rectangle-1 {
+  width: 1440px;
+  margin: 48px 0 0px;
+  padding: 2px 10px 104px;
+  background-image: linear-gradient(rgba(135, 198, 235, 0), #87c6eb);
+}
+
+.Quickly-revolutionize-extensible-value-for-ethical-networks {
+  width: 1440px;
+  font-family: Arapey;
+  font-size: 40px;
+  margin: 0 40px 50px 240px;
+}
+
+.Rectangle-2 {
+  width: 1440px;
+  background-color: #87c6eb;
+}
+
+.Rectangle-5 {
+  width: 350px;
+  height: 560px;
+  margin: 0 75px 0px 0px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.Rectangle-52 {
+  width: 350px;
+  height: 560px;
+  margin: 0 0px 0px 0px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.GroupR{
+  display: flex;
+  align-items: center;
+  margin: 0px 0px 0px 120px;
+}
+
+.bullet2 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: rgba(235, 172, 135, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bullet3 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: rgba(235, 172, 135, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bullet4 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #ebac87;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.span1{
+  font-family: Verdana;
+  font-size: 30px;
+  color: #fff;
+}
+
+img.Rectangle-6 {
+  width: 310px;
+  height: 310px;
+  flex-grow: 0;
+  margin: 10px 0 20px;
+  object-fit: contain;
+   background: #ebac87;
+}
+
+.Holisticly-unleash-revolutionary-infrastructures-without-high-standards-in-best-practices {
+  font-family: Verdana;
+  font-size: 20px;
+  letter-spacing: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+}
+.Holisticly-unleash-revolutionary-infrastructures-without-high-standards-in-best-practices .text-style-1 {
+  font-weight: bold;
+}
+
+.Desktop---2 {
+  width: 1440px;
+  height: 2148px;
+  flex-grow: 0;
+  padding: 100px 0 50px;
+  background-color: #fff;
+}
+
+.General{
+  display: flex;
+  align-items: center;
+  width: 1440px;
+}
+
+.GeneralL{
+  width: 600px;
+  margin: 50px 0px 0 120px;
+}
+
+.GeneralR{
+  width: 600px;
+  margin: 0px 120px 0 0px;
+}
+
+.caption {
+  background: url("../img/rectangle 3.png");
+  background-position: 100% 100%;
+  padding: 50px 120px 0px 0;
+  font-family: 'Arapey';
+  font-style: normal;
+  font-size: 40px;
+  text-align: center;
+  width: 600px;
+  height: 475px;
+}
+
+.Conveniently-re-engineer-web-enabled-leadership-skills-through-leading-edge-content {
+  width: 600px;
+  height: 132px;
+  margin: 50px 40px 0 0px;
+  font-family: Arapey;
+  font-size: 40px;
+  line-height: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.Competently-engineer-web-enabled-imperatives-for-viral-e-services-Synergistically-unleash-high-payo {
+  width: 600px;
+  height: 73px;
+  margin: 50px 40px 0 0px;
+  font-family: Verdana;
+  font-size: 20px;
+  line-height: normal;
+  text-align: left;
+}
+
+.Frame-2 {
+  width: 220px;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 50px 380px 50px 0;
+  padding: 24px 50px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.check-in {
+  width: 120px;
+  height: 32px;
+  flex-grow: 0;
+  font-family: Arapey;
+  font-size: 30px;
+  text-align: center;
+  color: #ebac87;
+}
+
+.Ellipse-1 {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: #ebac87;
+  margin: 295px 0px 54px 520px;
+}
+
+.span_ { 
+  font-family: Verdana;
+  font-size: 60px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.Frame-11 {
+  width: 267px;
+  height: 80px;
+  padding: 24px 50px;
+  border-radius: 10px;
+  background-color: #ebac87;
+  margin: 50px 0px 50px 120px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+
+.GropFacebook{
+  margin: 50px 120px 50px 120px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.Doun{
+  display: flex;
+  justify-content: space-between;
+}
