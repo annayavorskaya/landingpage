@@ -74,6 +74,12 @@ p {
   text-align: center;
   width: 1024px;
   margin: 50px 208px;
+   ont-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+
 }
 
 .Landingpage {
