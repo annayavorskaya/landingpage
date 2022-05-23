@@ -98,6 +98,7 @@ p {
   background-color: #ebac87;
   margin-left: auto;
   margin-right: auto;
+  text-transform: uppercase;
 }
 
 .get-started {
@@ -330,6 +331,7 @@ img.Rectangle-6{
   padding: 24px 50px;
   border-radius: 10px;
   background-color: #fff;
+  text-transform: uppercase;
 }
 
 .check-in {
